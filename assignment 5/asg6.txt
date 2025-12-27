@@ -1,4 +1,0 @@
-This is a sample text file.It contains some numbers like 123.
-.
-. and 456 Ayman wants to modify this file so that whenever he encounters a number followed by a period(.)()
-a new line is started Let's see how it go

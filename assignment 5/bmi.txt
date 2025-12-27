@@ -1,2 +1,0 @@
-1. Name : e	weight : 40.0	height : 112.0	BMI : 2.2417091836734695	current time : 2024-03-29 15:56:42.192259 
-2. Name : sid	weight : 80.0	height : 190.0	BMI : 1.5578947368421054	current time : 2024-03-29 15:57:39.202848 
